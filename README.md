@@ -2,7 +2,8 @@
 A classification model which classify a person as whether having or not the Leptospirosis based on clinical, environmental and demographic factors.
 
 ## The repositary contains the following files
-A notebook which consists of the Data preprocessing part, Descriptive analysis and the model fitting part for the dataset.
+
+Lepto.ipynb - A notebook which consists of the Data preprocessing part, Descriptive analysis and the advanced model fitting part for the dataset.
 
 A thorough data preprocessing and feature engineering part was done because the dataset was consisted of nearly 800 variables.
 
