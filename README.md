@@ -2,8 +2,8 @@
 A classification model which classify a person as whether having or not the Leptospirosis based on clinical, environmental and demographic factors.
 
 ## The repositary contains the following files
-Lepto1_classical model.ipynb - A python notebook which contains the data preprocessing part, EDA and the classical statistical modelling for the classification.
-Lepto.ipynb - A notebook which consists of the Data preprocessing part, Descriptive analysis and the advanced model fitting (Machine Learning) part for the dataset.
+1. Lepto1_classical model.ipynb - A python notebook which contains the data preprocessing part, EDA and the classical statistical modelling for the classification.
+2. Lepto.ipynb - A notebook which consists of the Data preprocessing part, Descriptive analysis and the advanced model fitting (Machine Learning) part for the dataset.
 
 A thorough data preprocessing and feature engineering part was done because the dataset was consisted of nearly 800 variables.
 
